@@ -1,0 +1,57 @@
+[
+  {
+    "inicio": 0.1,
+    "fim": 1.93,
+    "texto": "Una actividad para disfrutar juntos.",
+    "arquivo": "C3_0.wav",
+    "duracao_original": 1.736,
+    "cena_inicial": 0,
+    "cena_final": 0,
+    "offset_inicio": 0.1,
+    "offset_fim": 0.07000000000000006
+  },
+  {
+    "inicio": 2.1,
+    "fim": 4.9,
+    "texto": "Así de fácil es empezar.",
+    "arquivo": "C3_1.wav",
+    "duracao_original": 1.8326666666666667,
+    "cena_inicial": 1,
+    "cena_final": 1,
+    "offset_inicio": 0.10000000000000009,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 5.1,
+    "fim": 7.9,
+    "texto": "Memoria, palabras y atención.",
+    "arquivo": "C3_2.wav",
+    "duracao_original": 2.022,
+    "cena_inicial": 2,
+    "cena_final": 2,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 8.1,
+    "fim": 10.92,
+    "texto": "Trescientas veinte actividades en ocho cuadernos.",
+    "arquivo": "C3_3.wav",
+    "duracao_original": 2.973333333333333,
+    "cena_inicial": 3,
+    "cena_final": 3,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.08000000000000007
+  },
+  {
+    "inicio": 11.1,
+    "fim": 14.8,
+    "texto": "Conoce Momentos para Compartir. Descubre el kit digital.",
+    "arquivo": "C3_4.wav",
+    "duracao_original": 3.736666666666667,
+    "cena_inicial": 4,
+    "cena_final": 4,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.1999999999999993
+  }
+]

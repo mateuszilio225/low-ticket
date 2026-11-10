@@ -1,0 +1,177 @@
+{
+  "aprovado": true,
+  "videos": [
+    {
+      "criativo": "C3",
+      "arquivo": "MOMENTOS_C3_DEMONSTRACAO_15S.mp4",
+      "aprovado": true,
+      "erros": [],
+      "avisos": [],
+      "bytes": 1142033,
+      "sha256": "03cb3c98179d72bb840d29e9f398bf21b2ebb0aab1be4b7b78e67997d04430b4",
+      "video": {
+        "duracao_s": 15.0,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 30.0,
+        "fps_medio": 30.0,
+        "quadros_decodificados": 450,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "decodificacao_integral": "OK",
+        "intervalos_pretos_detectados": []
+      },
+      "audio": {
+        "pico_dBFS": -1.4,
+        "volume_medio_dBFS": -18.8,
+        "amostras_mono_16000_Hz": 240299,
+        "rms": 0.16254674806997682,
+        "rms_ultimos_50ms": 0.00020905278952688464,
+        "rms_200ms_anteriores": 0.007700364769636869,
+        "termino_suave_no_teste": true,
+        "decodificacao_integral": "OK",
+        "codec": "aac",
+        "canais": 2,
+        "sample_rate": "48000"
+      },
+      "folha_contato": "output/qa/MOMENTOS_C3_DEMONSTRACAO_15S_contato.jpg",
+      "contato_tempos_s": [
+        0.5,
+        1.5,
+        2.5,
+        3.5,
+        4.5,
+        5.5,
+        6.5,
+        7.5,
+        8.5,
+        9.5,
+        10.5,
+        11.5,
+        12.5,
+        13.5,
+        14.5
+      ]
+    },
+    {
+      "criativo": "C4",
+      "arquivo": "MOMENTOS_C4_FAMILIA_15S.mp4",
+      "aprovado": true,
+      "erros": [],
+      "avisos": [],
+      "bytes": 2166994,
+      "sha256": "c8890ed3c4710d9105eb1f06fabf44393d9de1ae3ad83170eada1311d610dfac",
+      "video": {
+        "duracao_s": 15.0,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 30.0,
+        "fps_medio": 30.0,
+        "quadros_decodificados": 450,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "decodificacao_integral": "OK",
+        "intervalos_pretos_detectados": []
+      },
+      "audio": {
+        "pico_dBFS": -1.5,
+        "volume_medio_dBFS": -18.0,
+        "amostras_mono_16000_Hz": 240299,
+        "rms": 0.17679210730630923,
+        "rms_ultimos_50ms": 0.0003298009781864835,
+        "rms_200ms_anteriores": 0.007127615488164493,
+        "termino_suave_no_teste": true,
+        "decodificacao_integral": "OK",
+        "codec": "aac",
+        "canais": 2,
+        "sample_rate": "48000"
+      },
+      "folha_contato": "output/qa/MOMENTOS_C4_FAMILIA_15S_contato.jpg",
+      "contato_tempos_s": [
+        0.5,
+        1.5,
+        2.5,
+        3.5,
+        4.5,
+        5.5,
+        6.5,
+        7.5,
+        8.5,
+        9.5,
+        10.5,
+        11.5,
+        12.5,
+        13.5,
+        14.5
+      ]
+    },
+    {
+      "criativo": "C5",
+      "arquivo": "MOMENTOS_C5_OFERTA_15S.mp4",
+      "aprovado": true,
+      "erros": [],
+      "avisos": [],
+      "bytes": 1320911,
+      "sha256": "7ea1b75a5701936125e2bb1a5477cf59d674ea6e63f3329103a1c85652cb45c8",
+      "video": {
+        "duracao_s": 15.0,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 30.0,
+        "fps_medio": 30.0,
+        "quadros_decodificados": 450,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "decodificacao_integral": "OK",
+        "intervalos_pretos_detectados": []
+      },
+      "audio": {
+        "pico_dBFS": -1.5,
+        "volume_medio_dBFS": -18.1,
+        "amostras_mono_16000_Hz": 240299,
+        "rms": 0.17472766577955715,
+        "rms_ultimos_50ms": 1.7595127839292995e-05,
+        "rms_200ms_anteriores": 0.0005656669236663178,
+        "termino_suave_no_teste": true,
+        "decodificacao_integral": "OK",
+        "codec": "aac",
+        "canais": 2,
+        "sample_rate": "48000"
+      },
+      "folha_contato": "output/qa/MOMENTOS_C5_OFERTA_15S_contato.jpg",
+      "contato_tempos_s": [
+        0.5,
+        1.5,
+        2.5,
+        3.5,
+        4.5,
+        5.5,
+        6.5,
+        7.5,
+        8.5,
+        9.5,
+        10.5,
+        11.5,
+        12.5,
+        13.5,
+        14.5
+      ]
+    }
+  ],
+  "layout": {
+    "aprovado": true,
+    "arquivo": "output/qa/layout.json",
+    "criativos": [
+      "C3",
+      "C4",
+      "C5"
+    ],
+    "erros": []
+  },
+  "integridade_entre_criativos": {
+    "hashes_distintos": 3,
+    "erros": []
+  },
+  "metodo": "FFprobe, decodificação completa FFmpeg, blackdetect, volumedetect, PCM e contato de 15 quadros atuais por vídeo.",
+  "limites": "Os testes automatizados não substituem a inspeção visual/escuta nem validam conversões, preço vigente ou configuração de uma campanha."
+}

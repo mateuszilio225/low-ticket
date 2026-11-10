@@ -1,0 +1,29 @@
+{
+  "codigo": "C2-22",
+  "pagina_atividade": 70,
+  "filas": [
+    [
+      "PATO",
+      "GATO",
+      "LAGO",
+      "ROSA"
+    ],
+    [
+      "PATO",
+      "GATO",
+      "LADO",
+      "ROSA"
+    ]
+  ],
+  "diferenca_posicao": 3,
+  "resposta": "LAGO → LADO",
+  "paginas_solucionario": [
+    343
+  ],
+  "calendario_dia8": [
+    "C1-29",
+    "C1-30",
+    "C1-31",
+    "C1-32"
+  ]
+}

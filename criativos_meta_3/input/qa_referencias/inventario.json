@@ -1,0 +1,1985 @@
+{
+  "original": {
+    "path": "marketing/video-15s/finais/Momentos_Anuncio_15s_9x16.mp4",
+    "bytes": 2572285,
+    "sha256": "9c7b8df5da1e03991219d4f8e4003ed2c824bb877fc3f365e76a1d2a0d6ea02e",
+    "probe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1088,
+          "coded_height": 1920,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 4,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1",
+          "time_base": "1/15360",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 230400,
+          "duration": "15.000000",
+          "bit_rate": "1169540",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "450",
+          "nb_read_frames": "450",
+          "extradata_size": 47,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc61.19.101 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 720000,
+          "duration": "15.000000",
+          "bit_rate": "192518",
+          "nb_frames": "705",
+          "nb_read_frames": "704",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/workspace/low-ticket/marketing/video-15s/finais/Momentos_Anuncio_15s_9x16.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "15.000000",
+        "size": "2572285",
+        "bit_rate": "1371885",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf61.7.103"
+        }
+      }
+    }
+  },
+  "otimizado": {
+    "path": "marketing/video-otimizado/finais/Momentos_Anuncio_Optimizado_15s_9x16.mp4",
+    "bytes": 2479123,
+    "sha256": "17ae9fcd150749231b8d6ad61f8dc5dfafd54a1ee2173d6da2959660da167e78",
+    "probe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1088,
+          "coded_height": 1920,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 4,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1",
+          "time_base": "1/15360",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 230400,
+          "duration": "15.000000",
+          "bit_rate": "1119649",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "450",
+          "nb_read_frames": "450",
+          "extradata_size": 47,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc61.19.101 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 720000,
+          "duration": "15.000000",
+          "bit_rate": "192709",
+          "nb_frames": "705",
+          "nb_read_frames": "704",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/workspace/low-ticket/marketing/video-otimizado/finais/Momentos_Anuncio_Optimizado_15s_9x16.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "15.000000",
+        "size": "2479123",
+        "bit_rate": "1322198",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf61.7.103"
+        }
+      }
+    }
+  },
+  "pdf": {
+    "path": "revision/finais/Momentos_para_Compartir_COMPLETO.pdf",
+    "bytes": 5637183,
+    "sha256": "c561be54badb020f09257502d99462d2de76db2e81717c70301116a051a47426",
+    "pages": 404,
+    "toc": [
+      [
+        1,
+        "Portada",
+        1
+      ],
+      [
+        1,
+        "Guía de uso",
+        2
+      ],
+      [
+        1,
+        "Cuaderno 1: Memoria y recuerdos",
+        7
+      ],
+      [
+        2,
+        "C1-01 · Recuerde la compra",
+        8
+      ],
+      [
+        2,
+        "C1-02 · Recuerde el jardín",
+        9
+      ],
+      [
+        2,
+        "C1-03 · Recuerde la cocina",
+        10
+      ],
+      [
+        2,
+        "C1-04 · Recuerde la ropa",
+        11
+      ],
+      [
+        2,
+        "C1-05 · Recuerde el paseo",
+        12
+      ],
+      [
+        2,
+        "C1-06 · Recuerde la mesa",
+        13
+      ],
+      [
+        2,
+        "C1-07 · Recuerde la música",
+        14
+      ],
+      [
+        2,
+        "C1-08 · Recuerde el baño",
+        15
+      ],
+      [
+        2,
+        "C1-09 · Recuerde el escritorio",
+        16
+      ],
+      [
+        2,
+        "C1-10 · Recuerde el viaje",
+        17
+      ],
+      [
+        2,
+        "C1-11 · Parejas: llave y peine",
+        18
+      ],
+      [
+        2,
+        "C1-12 · Parejas: taza y vaso",
+        19
+      ],
+      [
+        2,
+        "C1-13 · Parejas: aguja y lápiz",
+        20
+      ],
+      [
+        2,
+        "C1-14 · Parejas: lluvia y sol",
+        21
+      ],
+      [
+        2,
+        "C1-15 · Parejas: carta y regalo",
+        22
+      ],
+      [
+        2,
+        "C1-16 · Parejas: zapato y guante",
+        23
+      ],
+      [
+        2,
+        "C1-17 · Parejas: cepillo y jabón",
+        24
+      ],
+      [
+        2,
+        "C1-18 · Parejas: pájaro y abeja",
+        25
+      ],
+      [
+        2,
+        "C1-19 · Parejas: libro y árbol",
+        26
+      ],
+      [
+        2,
+        "C1-20 · Parejas: reloj y calendario",
+        27
+      ],
+      [
+        2,
+        "C1-21 · Un relato breve 1",
+        28
+      ],
+      [
+        2,
+        "C1-22 · Un relato breve 2",
+        29
+      ],
+      [
+        2,
+        "C1-23 · Un relato breve 3",
+        30
+      ],
+      [
+        2,
+        "C1-24 · Un relato breve 4",
+        31
+      ],
+      [
+        2,
+        "C1-25 · Un relato breve 5",
+        32
+      ],
+      [
+        2,
+        "C1-26 · Un relato breve 6",
+        33
+      ],
+      [
+        2,
+        "C1-27 · Un relato breve 7",
+        34
+      ],
+      [
+        2,
+        "C1-28 · Un relato breve 8",
+        35
+      ],
+      [
+        2,
+        "C1-29 · Un relato breve 9",
+        36
+      ],
+      [
+        2,
+        "C1-30 · Un relato breve 10",
+        37
+      ],
+      [
+        2,
+        "C1-31 · Una comida querida",
+        38
+      ],
+      [
+        2,
+        "C1-32 · Un lugar agradable",
+        39
+      ],
+      [
+        2,
+        "C1-33 · Una canción",
+        40
+      ],
+      [
+        2,
+        "C1-34 · Un juego",
+        41
+      ],
+      [
+        2,
+        "C1-35 · Una celebración",
+        42
+      ],
+      [
+        2,
+        "C1-36 · Un oficio",
+        43
+      ],
+      [
+        2,
+        "C1-37 · Un objeto especial",
+        44
+      ],
+      [
+        2,
+        "C1-38 · Un aroma",
+        45
+      ],
+      [
+        2,
+        "C1-39 · Una estación",
+        46
+      ],
+      [
+        2,
+        "C1-40 · Un aprendizaje",
+        47
+      ],
+      [
+        1,
+        "Cuaderno 2: Atención y concentración",
+        48
+      ],
+      [
+        2,
+        "C2-01 · Busque la letra A",
+        49
+      ],
+      [
+        2,
+        "C2-02 · Busque la letra E",
+        50
+      ],
+      [
+        2,
+        "C2-03 · Busque la letra O",
+        51
+      ],
+      [
+        2,
+        "C2-04 · Busque la letra I",
+        52
+      ],
+      [
+        2,
+        "C2-05 · Busque la letra U",
+        53
+      ],
+      [
+        2,
+        "C2-06 · Busque la letra E",
+        54
+      ],
+      [
+        2,
+        "C2-07 · Busque la letra O",
+        55
+      ],
+      [
+        2,
+        "C2-08 · Busque la letra I",
+        56
+      ],
+      [
+        2,
+        "C2-09 · Busque la letra U",
+        57
+      ],
+      [
+        2,
+        "C2-10 · Busque la letra E",
+        58
+      ],
+      [
+        2,
+        "C2-11 · Busque el número 2",
+        59
+      ],
+      [
+        2,
+        "C2-12 · Busque el número 3",
+        60
+      ],
+      [
+        2,
+        "C2-13 · Busque el número 4",
+        61
+      ],
+      [
+        2,
+        "C2-14 · Busque el número 5",
+        62
+      ],
+      [
+        2,
+        "C2-15 · Busque el número 6",
+        63
+      ],
+      [
+        2,
+        "C2-16 · Busque el número 7",
+        64
+      ],
+      [
+        2,
+        "C2-17 · Busque el número 8",
+        65
+      ],
+      [
+        2,
+        "C2-18 · Busque el número 9",
+        66
+      ],
+      [
+        2,
+        "C2-19 · Busque el número 10",
+        67
+      ],
+      [
+        2,
+        "C2-20 · Busque el número 11",
+        68
+      ],
+      [
+        2,
+        "C2-21 · Compare dos filas 1",
+        69
+      ],
+      [
+        2,
+        "C2-22 · Compare dos filas 2",
+        70
+      ],
+      [
+        2,
+        "C2-23 · Compare dos filas 3",
+        71
+      ],
+      [
+        2,
+        "C2-24 · Compare dos filas 4",
+        72
+      ],
+      [
+        2,
+        "C2-25 · Compare dos filas 5",
+        73
+      ],
+      [
+        2,
+        "C2-26 · Compare dos filas 6",
+        74
+      ],
+      [
+        2,
+        "C2-27 · Compare dos filas 7",
+        75
+      ],
+      [
+        2,
+        "C2-28 · Compare dos filas 8",
+        76
+      ],
+      [
+        2,
+        "C2-29 · Compare dos filas 9",
+        77
+      ],
+      [
+        2,
+        "C2-30 · Compare dos filas 10",
+        78
+      ],
+      [
+        2,
+        "C2-31 · Una regla a la vez 1",
+        79
+      ],
+      [
+        2,
+        "C2-32 · Una regla a la vez 2",
+        80
+      ],
+      [
+        2,
+        "C2-33 · Una regla a la vez 3",
+        81
+      ],
+      [
+        2,
+        "C2-34 · Una regla a la vez 4",
+        82
+      ],
+      [
+        2,
+        "C2-35 · Una regla a la vez 5",
+        83
+      ],
+      [
+        2,
+        "C2-36 · Una regla a la vez 6",
+        84
+      ],
+      [
+        2,
+        "C2-37 · Una regla a la vez 7",
+        85
+      ],
+      [
+        2,
+        "C2-38 · Una regla a la vez 8",
+        86
+      ],
+      [
+        2,
+        "C2-39 · Una regla a la vez 9",
+        87
+      ],
+      [
+        2,
+        "C2-40 · Una regla a la vez 10",
+        88
+      ],
+      [
+        1,
+        "Cuaderno 3: Palabras y conversación",
+        89
+      ],
+      [
+        2,
+        "C3-01 · Palabras de frutas",
+        90
+      ],
+      [
+        2,
+        "C3-02 · Palabras de verduras",
+        91
+      ],
+      [
+        2,
+        "C3-03 · Palabras de ropa",
+        92
+      ],
+      [
+        2,
+        "C3-04 · Palabras de medios de transporte",
+        93
+      ],
+      [
+        2,
+        "C3-05 · Palabras de animales",
+        94
+      ],
+      [
+        2,
+        "C3-06 · Palabras de utensilios de cocina",
+        95
+      ],
+      [
+        2,
+        "C3-07 · Palabras de muebles",
+        96
+      ],
+      [
+        2,
+        "C3-08 · Palabras de instrumentos musicales",
+        97
+      ],
+      [
+        2,
+        "C3-09 · Palabras de profesiones",
+        98
+      ],
+      [
+        2,
+        "C3-10 · Palabras de lugares de un barrio",
+        99
+      ],
+      [
+        2,
+        "C3-11 · Una idea contraria: grande",
+        100
+      ],
+      [
+        2,
+        "C3-12 · Una idea contraria: caliente",
+        101
+      ],
+      [
+        2,
+        "C3-13 · Una idea contraria: abierto",
+        102
+      ],
+      [
+        2,
+        "C3-14 · Una idea contraria: alto",
+        103
+      ],
+      [
+        2,
+        "C3-15 · Una idea contraria: claro",
+        104
+      ],
+      [
+        2,
+        "C3-16 · Una idea contraria: rápido",
+        105
+      ],
+      [
+        2,
+        "C3-17 · Una idea contraria: lleno",
+        106
+      ],
+      [
+        2,
+        "C3-18 · Una idea contraria: cerca",
+        107
+      ],
+      [
+        2,
+        "C3-19 · Una idea contraria: suave",
+        108
+      ],
+      [
+        2,
+        "C3-20 · Una idea contraria: alegre",
+        109
+      ],
+      [
+        2,
+        "C3-21 · Describa y nombre 1",
+        110
+      ],
+      [
+        2,
+        "C3-22 · Describa y nombre 2",
+        111
+      ],
+      [
+        2,
+        "C3-23 · Describa y nombre 3",
+        112
+      ],
+      [
+        2,
+        "C3-24 · Describa y nombre 4",
+        113
+      ],
+      [
+        2,
+        "C3-25 · Describa y nombre 5",
+        114
+      ],
+      [
+        2,
+        "C3-26 · Describa y nombre 6",
+        115
+      ],
+      [
+        2,
+        "C3-27 · Describa y nombre 7",
+        116
+      ],
+      [
+        2,
+        "C3-28 · Describa y nombre 8",
+        117
+      ],
+      [
+        2,
+        "C3-29 · Describa y nombre 9",
+        118
+      ],
+      [
+        2,
+        "C3-30 · Describa y nombre 10",
+        119
+      ],
+      [
+        2,
+        "C3-31 · Ordene la frase 1",
+        120
+      ],
+      [
+        2,
+        "C3-32 · Ordene la frase 2",
+        121
+      ],
+      [
+        2,
+        "C3-33 · Ordene la frase 3",
+        122
+      ],
+      [
+        2,
+        "C3-34 · Ordene la frase 4",
+        123
+      ],
+      [
+        2,
+        "C3-35 · Ordene la frase 5",
+        124
+      ],
+      [
+        2,
+        "C3-36 · Ordene la frase 6",
+        125
+      ],
+      [
+        2,
+        "C3-37 · Ordene la frase 7",
+        126
+      ],
+      [
+        2,
+        "C3-38 · Ordene la frase 8",
+        127
+      ],
+      [
+        2,
+        "C3-39 · Ordene la frase 9",
+        128
+      ],
+      [
+        2,
+        "C3-40 · Ordene la frase 10",
+        129
+      ],
+      [
+        1,
+        "Cuaderno 4: Números de cada día",
+        130
+      ],
+      [
+        2,
+        "C4-01 · Una cesta de fruta 1",
+        131
+      ],
+      [
+        2,
+        "C4-02 · Una cesta de fruta 2",
+        132
+      ],
+      [
+        2,
+        "C4-03 · Una cesta de fruta 3",
+        133
+      ],
+      [
+        2,
+        "C4-04 · Una cesta de fruta 4",
+        134
+      ],
+      [
+        2,
+        "C4-05 · Una cesta de fruta 5",
+        135
+      ],
+      [
+        2,
+        "C4-06 · Una cesta de fruta 6",
+        136
+      ],
+      [
+        2,
+        "C4-07 · Una cesta de fruta 7",
+        137
+      ],
+      [
+        2,
+        "C4-08 · Una cesta de fruta 8",
+        138
+      ],
+      [
+        2,
+        "C4-09 · Una cesta de fruta 9",
+        139
+      ],
+      [
+        2,
+        "C4-10 · Una cesta de fruta 10",
+        140
+      ],
+      [
+        2,
+        "C4-11 · Quedan servilletas 1",
+        141
+      ],
+      [
+        2,
+        "C4-12 · Quedan servilletas 2",
+        142
+      ],
+      [
+        2,
+        "C4-13 · Quedan servilletas 3",
+        143
+      ],
+      [
+        2,
+        "C4-14 · Quedan servilletas 4",
+        144
+      ],
+      [
+        2,
+        "C4-15 · Quedan servilletas 5",
+        145
+      ],
+      [
+        2,
+        "C4-16 · Quedan servilletas 6",
+        146
+      ],
+      [
+        2,
+        "C4-17 · Quedan servilletas 7",
+        147
+      ],
+      [
+        2,
+        "C4-18 · Quedan servilletas 8",
+        148
+      ],
+      [
+        2,
+        "C4-19 · Quedan servilletas 9",
+        149
+      ],
+      [
+        2,
+        "C4-20 · Quedan servilletas 10",
+        150
+      ],
+      [
+        2,
+        "C4-21 · Calcule el cambio 1",
+        151
+      ],
+      [
+        2,
+        "C4-22 · Calcule el cambio 2",
+        152
+      ],
+      [
+        2,
+        "C4-23 · Calcule el cambio 3",
+        153
+      ],
+      [
+        2,
+        "C4-24 · Calcule el cambio 4",
+        154
+      ],
+      [
+        2,
+        "C4-25 · Calcule el cambio 5",
+        155
+      ],
+      [
+        2,
+        "C4-26 · Calcule el cambio 6",
+        156
+      ],
+      [
+        2,
+        "C4-27 · Calcule el cambio 7",
+        157
+      ],
+      [
+        2,
+        "C4-28 · Calcule el cambio 8",
+        158
+      ],
+      [
+        2,
+        "C4-29 · Calcule el cambio 9",
+        159
+      ],
+      [
+        2,
+        "C4-30 · Calcule el cambio 10",
+        160
+      ],
+      [
+        2,
+        "C4-31 · Reparto para compartir 1",
+        161
+      ],
+      [
+        2,
+        "C4-32 · Reparto para compartir 2",
+        162
+      ],
+      [
+        2,
+        "C4-33 · Reparto para compartir 3",
+        163
+      ],
+      [
+        2,
+        "C4-34 · Reparto para compartir 4",
+        164
+      ],
+      [
+        2,
+        "C4-35 · Reparto para compartir 5",
+        165
+      ],
+      [
+        2,
+        "C4-36 · Reparto para compartir 6",
+        166
+      ],
+      [
+        2,
+        "C4-37 · Reparto para compartir 7",
+        167
+      ],
+      [
+        2,
+        "C4-38 · Reparto para compartir 8",
+        168
+      ],
+      [
+        2,
+        "C4-39 · Reparto para compartir 9",
+        169
+      ],
+      [
+        2,
+        "C4-40 · Reparto para compartir 10",
+        170
+      ],
+      [
+        1,
+        "Cuaderno 5: Lógica y relaciones",
+        171
+      ],
+      [
+        2,
+        "C5-01 · La serie avanza 1",
+        172
+      ],
+      [
+        2,
+        "C5-02 · La serie avanza 2",
+        173
+      ],
+      [
+        2,
+        "C5-03 · La serie avanza 3",
+        174
+      ],
+      [
+        2,
+        "C5-04 · La serie avanza 4",
+        175
+      ],
+      [
+        2,
+        "C5-05 · La serie avanza 5",
+        176
+      ],
+      [
+        2,
+        "C5-06 · La serie avanza 6",
+        177
+      ],
+      [
+        2,
+        "C5-07 · La serie avanza 7",
+        178
+      ],
+      [
+        2,
+        "C5-08 · La serie avanza 8",
+        179
+      ],
+      [
+        2,
+        "C5-09 · La serie avanza 9",
+        180
+      ],
+      [
+        2,
+        "C5-10 · La serie avanza 10",
+        181
+      ],
+      [
+        2,
+        "C5-11 · El elemento diferente 1",
+        182
+      ],
+      [
+        2,
+        "C5-12 · El elemento diferente 2",
+        183
+      ],
+      [
+        2,
+        "C5-13 · El elemento diferente 3",
+        184
+      ],
+      [
+        2,
+        "C5-14 · El elemento diferente 4",
+        185
+      ],
+      [
+        2,
+        "C5-15 · El elemento diferente 5",
+        186
+      ],
+      [
+        2,
+        "C5-16 · El elemento diferente 6",
+        187
+      ],
+      [
+        2,
+        "C5-17 · El elemento diferente 7",
+        188
+      ],
+      [
+        2,
+        "C5-18 · El elemento diferente 8",
+        189
+      ],
+      [
+        2,
+        "C5-19 · El elemento diferente 9",
+        190
+      ],
+      [
+        2,
+        "C5-20 · El elemento diferente 10",
+        191
+      ],
+      [
+        2,
+        "C5-21 · Antes y después: lavar una fruta",
+        192
+      ],
+      [
+        2,
+        "C5-22 · Antes y después: enviar una carta",
+        193
+      ],
+      [
+        2,
+        "C5-23 · Antes y después: ponerse medias y zapatos",
+        194
+      ],
+      [
+        2,
+        "C5-24 · Antes y después: regar una planta",
+        195
+      ],
+      [
+        2,
+        "C5-25 · Antes y después: leer un libro",
+        196
+      ],
+      [
+        2,
+        "C5-26 · Antes y después: servir agua",
+        197
+      ],
+      [
+        2,
+        "C5-27 · Antes y después: preparar la mesa",
+        198
+      ],
+      [
+        2,
+        "C5-28 · Antes y después: escuchar música",
+        199
+      ],
+      [
+        2,
+        "C5-29 · Antes y después: dibujar",
+        200
+      ],
+      [
+        2,
+        "C5-30 · Antes y después: hacer una llamada",
+        201
+      ],
+      [
+        2,
+        "C5-31 · Tres lugares 1",
+        202
+      ],
+      [
+        2,
+        "C5-32 · Tres lugares 2",
+        203
+      ],
+      [
+        2,
+        "C5-33 · Tres lugares 3",
+        204
+      ],
+      [
+        2,
+        "C5-34 · Tres lugares 4",
+        205
+      ],
+      [
+        2,
+        "C5-35 · Tres lugares 5",
+        206
+      ],
+      [
+        2,
+        "C5-36 · Tres lugares 6",
+        207
+      ],
+      [
+        2,
+        "C5-37 · Tres lugares 7",
+        208
+      ],
+      [
+        2,
+        "C5-38 · Tres lugares 8",
+        209
+      ],
+      [
+        2,
+        "C5-39 · Tres lugares 9",
+        210
+      ],
+      [
+        2,
+        "C5-40 · Tres lugares 10",
+        211
+      ],
+      [
+        1,
+        "Cuaderno 6: Tiempo y orientación",
+        212
+      ],
+      [
+        2,
+        "C6-01 · Calendario de práctica 1",
+        213
+      ],
+      [
+        2,
+        "C6-02 · Calendario de práctica 2",
+        214
+      ],
+      [
+        2,
+        "C6-03 · Calendario de práctica 3",
+        215
+      ],
+      [
+        2,
+        "C6-04 · Calendario de práctica 4",
+        216
+      ],
+      [
+        2,
+        "C6-05 · Calendario de práctica 5",
+        217
+      ],
+      [
+        2,
+        "C6-06 · Calendario de práctica 6",
+        218
+      ],
+      [
+        2,
+        "C6-07 · Calendario de práctica 7",
+        219
+      ],
+      [
+        2,
+        "C6-08 · Calendario de práctica 8",
+        220
+      ],
+      [
+        2,
+        "C6-09 · Calendario de práctica 9",
+        221
+      ],
+      [
+        2,
+        "C6-10 · Calendario de práctica 10",
+        222
+      ],
+      [
+        2,
+        "C6-11 · Meses en el calendario 1",
+        223
+      ],
+      [
+        2,
+        "C6-12 · Meses en el calendario 2",
+        224
+      ],
+      [
+        2,
+        "C6-13 · Meses en el calendario 3",
+        225
+      ],
+      [
+        2,
+        "C6-14 · Meses en el calendario 4",
+        226
+      ],
+      [
+        2,
+        "C6-15 · Meses en el calendario 5",
+        227
+      ],
+      [
+        2,
+        "C6-16 · Meses en el calendario 6",
+        228
+      ],
+      [
+        2,
+        "C6-17 · Meses en el calendario 7",
+        229
+      ],
+      [
+        2,
+        "C6-18 · Meses en el calendario 8",
+        230
+      ],
+      [
+        2,
+        "C6-19 · Meses en el calendario 9",
+        231
+      ],
+      [
+        2,
+        "C6-20 · Meses en el calendario 10",
+        232
+      ],
+      [
+        2,
+        "C6-21 · Una cita imaginaria 1",
+        233
+      ],
+      [
+        2,
+        "C6-22 · Una cita imaginaria 2",
+        234
+      ],
+      [
+        2,
+        "C6-23 · Una cita imaginaria 3",
+        235
+      ],
+      [
+        2,
+        "C6-24 · Una cita imaginaria 4",
+        236
+      ],
+      [
+        2,
+        "C6-25 · Una cita imaginaria 5",
+        237
+      ],
+      [
+        2,
+        "C6-26 · Una cita imaginaria 6",
+        238
+      ],
+      [
+        2,
+        "C6-27 · Una cita imaginaria 7",
+        239
+      ],
+      [
+        2,
+        "C6-28 · Una cita imaginaria 8",
+        240
+      ],
+      [
+        2,
+        "C6-29 · Una cita imaginaria 9",
+        241
+      ],
+      [
+        2,
+        "C6-30 · Una cita imaginaria 10",
+        242
+      ],
+      [
+        2,
+        "C6-31 · La fecha con apoyo",
+        243
+      ],
+      [
+        2,
+        "C6-32 · El lugar compartido",
+        244
+      ],
+      [
+        2,
+        "C6-33 · Una señal útil",
+        245
+      ],
+      [
+        2,
+        "C6-34 · Nuestro próximo momento",
+        246
+      ],
+      [
+        2,
+        "C6-35 · Mañana, tarde y noche",
+        247
+      ],
+      [
+        2,
+        "C6-36 · Un recorrido conocido",
+        248
+      ],
+      [
+        2,
+        "C6-37 · Objetos a la vista",
+        249
+      ],
+      [
+        2,
+        "C6-38 · Un calendario amable",
+        250
+      ],
+      [
+        2,
+        "C6-39 · Luz del día",
+        251
+      ],
+      [
+        2,
+        "C6-40 · Una tarjeta de apoyo",
+        252
+      ],
+      [
+        1,
+        "Cuaderno 7: Formas y espacio",
+        253
+      ],
+      [
+        2,
+        "C7-01 · Cuente las figuras 1",
+        254
+      ],
+      [
+        2,
+        "C7-02 · Cuente las figuras 2",
+        255
+      ],
+      [
+        2,
+        "C7-03 · Cuente las figuras 3",
+        256
+      ],
+      [
+        2,
+        "C7-04 · Cuente las figuras 4",
+        257
+      ],
+      [
+        2,
+        "C7-05 · Cuente las figuras 5",
+        258
+      ],
+      [
+        2,
+        "C7-06 · Cuente las figuras 6",
+        259
+      ],
+      [
+        2,
+        "C7-07 · Cuente las figuras 7",
+        260
+      ],
+      [
+        2,
+        "C7-08 · Cuente las figuras 8",
+        261
+      ],
+      [
+        2,
+        "C7-09 · Cuente las figuras 9",
+        262
+      ],
+      [
+        2,
+        "C7-10 · Cuente las figuras 10",
+        263
+      ],
+      [
+        2,
+        "C7-11 · Continúe las formas 1",
+        264
+      ],
+      [
+        2,
+        "C7-12 · Continúe las formas 2",
+        265
+      ],
+      [
+        2,
+        "C7-13 · Continúe las formas 3",
+        266
+      ],
+      [
+        2,
+        "C7-14 · Continúe las formas 4",
+        267
+      ],
+      [
+        2,
+        "C7-15 · Continúe las formas 5",
+        268
+      ],
+      [
+        2,
+        "C7-16 · Continúe las formas 6",
+        269
+      ],
+      [
+        2,
+        "C7-17 · Continúe las formas 7",
+        270
+      ],
+      [
+        2,
+        "C7-18 · Continúe las formas 8",
+        271
+      ],
+      [
+        2,
+        "C7-19 · Continúe las formas 9",
+        272
+      ],
+      [
+        2,
+        "C7-20 · Continúe las formas 10",
+        273
+      ],
+      [
+        2,
+        "C7-21 · Encuentre una posición 1",
+        274
+      ],
+      [
+        2,
+        "C7-22 · Encuentre una posición 2",
+        275
+      ],
+      [
+        2,
+        "C7-23 · Encuentre una posición 3",
+        276
+      ],
+      [
+        2,
+        "C7-24 · Encuentre una posición 4",
+        277
+      ],
+      [
+        2,
+        "C7-25 · Encuentre una posición 5",
+        278
+      ],
+      [
+        2,
+        "C7-26 · Encuentre una posición 6",
+        279
+      ],
+      [
+        2,
+        "C7-27 · Encuentre una posición 7",
+        280
+      ],
+      [
+        2,
+        "C7-28 · Encuentre una posición 8",
+        281
+      ],
+      [
+        2,
+        "C7-29 · Encuentre una posición 9",
+        282
+      ],
+      [
+        2,
+        "C7-30 · Encuentre una posición 10",
+        283
+      ],
+      [
+        2,
+        "C7-31 · Un camino en papel 1",
+        284
+      ],
+      [
+        2,
+        "C7-32 · Un camino en papel 2",
+        285
+      ],
+      [
+        2,
+        "C7-33 · Un camino en papel 3",
+        286
+      ],
+      [
+        2,
+        "C7-34 · Un camino en papel 4",
+        287
+      ],
+      [
+        2,
+        "C7-35 · Un camino en papel 5",
+        288
+      ],
+      [
+        2,
+        "C7-36 · Un camino en papel 6",
+        289
+      ],
+      [
+        2,
+        "C7-37 · Un camino en papel 7",
+        290
+      ],
+      [
+        2,
+        "C7-38 · Un camino en papel 8",
+        291
+      ],
+      [
+        2,
+        "C7-39 · Un camino en papel 9",
+        292
+      ],
+      [
+        2,
+        "C7-40 · Un camino en papel 10",
+        293
+      ],
+      [
+        1,
+        "Cuaderno 8: Decisiones cotidianas",
+        294
+      ],
+      [
+        2,
+        "C8-01 · Antes de salir",
+        295
+      ],
+      [
+        2,
+        "C8-02 · Una habitación oscura",
+        296
+      ],
+      [
+        2,
+        "C8-03 · Una mesa despejada",
+        297
+      ],
+      [
+        2,
+        "C8-04 · Algo fuera de alcance",
+        298
+      ],
+      [
+        2,
+        "C8-05 · Un suelo mojado",
+        299
+      ],
+      [
+        2,
+        "C8-06 · Una conversación",
+        300
+      ],
+      [
+        2,
+        "C8-07 · Una pausa",
+        301
+      ],
+      [
+        2,
+        "C8-08 · Una llamada dudosa",
+        302
+      ],
+      [
+        2,
+        "C8-09 · Una compra escrita",
+        303
+      ],
+      [
+        2,
+        "C8-10 · Elegir compañía",
+        304
+      ],
+      [
+        2,
+        "C8-11 · Organice objetos: nevera",
+        305
+      ],
+      [
+        2,
+        "C8-12 · Organice objetos: ropa",
+        306
+      ],
+      [
+        2,
+        "C8-13 · Organice objetos: aseo",
+        307
+      ],
+      [
+        2,
+        "C8-14 · Organice objetos: lectura",
+        308
+      ],
+      [
+        2,
+        "C8-15 · Organice objetos: jardín",
+        309
+      ],
+      [
+        2,
+        "C8-16 · Organice objetos: escritura",
+        310
+      ],
+      [
+        2,
+        "C8-17 · Organice objetos: calzado",
+        311
+      ],
+      [
+        2,
+        "C8-18 · Organice objetos: transporte",
+        312
+      ],
+      [
+        2,
+        "C8-19 · Organice objetos: costura",
+        313
+      ],
+      [
+        2,
+        "C8-20 · Organice objetos: cocina",
+        314
+      ],
+      [
+        2,
+        "C8-21 · Prepare una merienda",
+        315
+      ],
+      [
+        2,
+        "C8-22 · Prepare un rato de música",
+        316
+      ],
+      [
+        2,
+        "C8-23 · Prepare una llamada",
+        317
+      ],
+      [
+        2,
+        "C8-24 · Prepare una tarde tranquila",
+        318
+      ],
+      [
+        2,
+        "C8-25 · Prepare una mesa para dos",
+        319
+      ],
+      [
+        2,
+        "C8-26 · Prepare un paseo imaginario",
+        320
+      ],
+      [
+        2,
+        "C8-27 · Prepare un pequeño dibujo",
+        321
+      ],
+      [
+        2,
+        "C8-28 · Prepare una visita",
+        322
+      ],
+      [
+        2,
+        "C8-29 · Prepare una sesión de actividades",
+        323
+      ],
+      [
+        2,
+        "C8-30 · Prepare un momento de descanso",
+        324
+      ],
+      [
+        2,
+        "C8-31 · Resuelva una situación 1",
+        325
+      ],
+      [
+        2,
+        "C8-32 · Resuelva una situación 2",
+        326
+      ],
+      [
+        2,
+        "C8-33 · Resuelva una situación 3",
+        327
+      ],
+      [
+        2,
+        "C8-34 · Resuelva una situación 4",
+        328
+      ],
+      [
+        2,
+        "C8-35 · Resuelva una situación 5",
+        329
+      ],
+      [
+        2,
+        "C8-36 · Resuelva una situación 6",
+        330
+      ],
+      [
+        2,
+        "C8-37 · Resuelva una situación 7",
+        331
+      ],
+      [
+        2,
+        "C8-38 · Resuelva una situación 8",
+        332
+      ],
+      [
+        2,
+        "C8-39 · Resuelva una situación 9",
+        333
+      ],
+      [
+        2,
+        "C8-40 · Resuelva una situación 10",
+        334
+      ],
+      [
+        1,
+        "Solucionario",
+        335
+      ],
+      [
+        1,
+        "Bonus: juegos en grupo",
+        373
+      ],
+      [
+        1,
+        "Bonus: dominó recortable",
+        379
+      ],
+      [
+        1,
+        "Bonus: calendario de 90 días",
+        383
+      ],
+      [
+        1,
+        "Bonus: diploma de participación",
+        402
+      ],
+      [
+        1,
+        "Cómo personalizar el diploma",
+        403
+      ]
+    ]
+  },
+  "nomes_exatos": {
+    "Momentos_Anuncio_Optimizado_15s_9x16.mp4": [
+      "/workspace/low-ticket/marketing/video-otimizado/finais/Momentos_Anuncio_Optimizado_15s_9x16.mp4"
+    ],
+    "Momentos_Anuncio_15s_9x16(2).mp4": [],
+    "Momentos_para_Compartir_COMPLETO(1).pdf": []
+  }
+}

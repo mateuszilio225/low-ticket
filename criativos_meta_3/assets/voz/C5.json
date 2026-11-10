@@ -1,0 +1,57 @@
+[
+  {
+    "inicio": 0.1,
+    "fim": 1.9,
+    "texto": "¿Qué incluye este kit digital?",
+    "arquivo": "C5_0.wav",
+    "duracao_original": 2.034666666666667,
+    "cena_inicial": 0,
+    "cena_final": 0,
+    "offset_inicio": 0.1,
+    "offset_fim": 0.10000000000000009
+  },
+  {
+    "inicio": 2.1,
+    "fim": 4.9,
+    "texto": "Ocho cuadernos. Trescientas veinte actividades en PDF.",
+    "arquivo": "C5_1.wav",
+    "duracao_original": 2.530666666666667,
+    "cena_inicial": 1,
+    "cena_final": 1,
+    "offset_inicio": 0.10000000000000009,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 5.1,
+    "fim": 7.9,
+    "texto": "Memoria, atención, lógica y palabras.",
+    "arquivo": "C5_2.wav",
+    "duracao_original": 2.6253333333333333,
+    "cena_inicial": 2,
+    "cena_final": 2,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 8.1,
+    "fim": 10.9,
+    "texto": "Calendario de noventa días y solucionario.",
+    "arquivo": "C5_3.wav",
+    "duracao_original": 2.6533333333333333,
+    "cena_inicial": 3,
+    "cena_final": 3,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 11.1,
+    "fim": 14.85,
+    "texto": "Consulta la oferta y descubre todo lo que incluye.",
+    "arquivo": "C5_4.wav",
+    "duracao_original": 2.888,
+    "cena_inicial": 4,
+    "cena_final": 5,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.15000000000000036
+  }
+]

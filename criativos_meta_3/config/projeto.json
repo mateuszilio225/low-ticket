@@ -1,0 +1,153 @@
+{
+  "produto": {
+    "nome": "Momentos para Compartir",
+    "formato": "Kit digital en PDF",
+    "atividades": 320,
+    "cadernos": 8,
+    "preco": "9,90 €",
+    "preco_prefixo": "Desde",
+    "impostos": "+ impuestos aplicables",
+    "mostrar_preco": true,
+    "fonte_preco": "Informado como atual pelo usuário em 2026-11-10; checkout bloqueado por política de rede",
+    "checkout_verificado": false,
+    "landing_url": "https://momentos-para-compartir.wrydingo.chatgpt.site/",
+    "checkout_url": "https://pay.hotmart.com/B108342710S?off=v64n7urs"
+  },
+  "idioma": "es-ES",
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "visual": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "area_segura": [
+      90,
+      170,
+      940,
+      1560
+    ],
+    "navy": "#172F4D",
+    "gold": "#DAB45E",
+    "cream": "#FCFAF4",
+    "font_regular": "assets/fonts/DejaVuSans.ttf",
+    "font_bold": "assets/fonts/DejaVuSans-Bold.ttf",
+    "font_serif": "assets/fonts/DejaVuSerif.ttf",
+    "crf": 20,
+    "preset": "fast",
+    "paralelismo": 2
+  },
+  "audio": {
+    "usar_voz": true,
+    "volume_voz": 1.0,
+    "volume_musica": 0.024,
+    "volume_efeitos": 0.014,
+    "lufs_alvo": -16,
+    "true_peak_alvo": -1.5
+  },
+  "recursos": {
+    "pdf": "input/Momentos_para_Compartir_COMPLETO.pdf",
+    "capa": "assets/capa.png",
+    "familia": "assets/familia.png"
+  },
+  "paginas": {
+    "C3": {
+      "demonstracao": "C2-22",
+      "palavras": [
+        "LAGO",
+        "LADO"
+      ],
+      "variedade": [
+        "C1-33",
+        "C3-01"
+      ]
+    },
+    "C4": {
+      "conversa": "C1-31",
+      "alternativa": "C1-34",
+      "dia_calendario": 8
+    },
+    "C5": {
+      "Memoria": "C1-33",
+      "Atención": "C2-22",
+      "Lógica": "C5-02",
+      "Palabras": "C3-01"
+    }
+  },
+  "criativos": {
+    "C3": {
+      "arquivo": "MOMENTOS_C3_DEMONSTRACAO_15S.mp4",
+      "duracoes": [
+        2,
+        3,
+        3,
+        3,
+        4
+      ],
+      "titulos": [
+        "Una actividad para\ndisfrutar juntos",
+        "Así de fácil\nes empezar",
+        "Memoria, palabras\ny atención",
+        "320 actividades\nen 8 cuadernos",
+        "Descubre Momentos\npara Compartir"
+      ],
+      "secundarios": [
+        "Detalle real · C2-22",
+        "Ejemplo resuelto · C2-22",
+        "Actividades reales del kit",
+        "Para usar en digital o imprimir",
+        "Conoce el kit completo →"
+      ]
+    },
+    "C4": {
+      "arquivo": "MOMENTOS_C4_FAMILIA_15S.mp4",
+      "duracoes": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "titulos": [
+        "A veces, los mejores\nmomentos son\nlos más sencillos",
+        "Una idea para\ncompartir hoy",
+        "Conversar, recordar\ny disfrutar",
+        "Actividades listas\npara elegir",
+        "320 actividades\npara compartir"
+      ],
+      "secundarios": [
+        "",
+        "Una comida querida · C1-31",
+        "Elegid · Conversad · Disfrutad",
+        "Calendario orientativo de 90 días",
+        "Descubre el kit digital →"
+      ]
+    },
+    "C5": {
+      "arquivo": "MOMENTOS_C5_OFERTA_15S.mp4",
+      "duracoes": [
+        2,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "titulos": [
+        "¿Qué incluye\neste kit digital?",
+        "8 cuadernos\n320 actividades",
+        "Memoria · Atención\nLógica · Palabras",
+        "Calendario de 90 días\ny materiales extra",
+        "",
+        "Descubre todo\nlo que incluye"
+      ],
+      "secundarios": [
+        "PDF para consultar o imprimir",
+        "40 actividades por cuaderno",
+        "Páginas reales del producto",
+        "Solucionario incluido",
+        "Consulta el total en el checkout",
+        "Momentos para Compartir →"
+      ]
+    }
+  }
+}

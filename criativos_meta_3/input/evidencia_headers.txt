@@ -1,0 +1,17 @@
+LANDING
+HTTP/1.1 403 Forbidden
+content-length: 16
+content-type: text/plain
+date: Tue, 10 Nov 2026 14:47:01 GMT
+server: envoy
+connection: close
+
+
+CHECKOUT
+HTTP/1.1 403 Forbidden
+content-length: 16
+content-type: text/plain
+date: Tue, 10 Nov 2026 14:47:01 GMT
+server: envoy
+connection: close
+

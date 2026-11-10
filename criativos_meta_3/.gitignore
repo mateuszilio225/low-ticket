@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+output/.*_sem_audio.mp4
+output/*_audio.wav
+output/qa_teste_runner/

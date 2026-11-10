@@ -1,0 +1,57 @@
+[
+  {
+    "inicio": 0.1,
+    "fim": 2.9,
+    "texto": "A veces, lo más sencillo es compartir.",
+    "arquivo": "C4_0.wav",
+    "duracao_original": 2.3646666666666665,
+    "cena_inicial": 0,
+    "cena_final": 0,
+    "offset_inicio": 0.1,
+    "offset_fim": 0.10000000000000009
+  },
+  {
+    "inicio": 3.1,
+    "fim": 5.9,
+    "texto": "Una idea para hoy: una comida querida.",
+    "arquivo": "C4_1.wav",
+    "duracao_original": 2.564,
+    "cena_inicial": 1,
+    "cena_final": 1,
+    "offset_inicio": 0.10000000000000009,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 6.1,
+    "fim": 8.9,
+    "texto": "Elegid una hoja. Conversad y disfrutad.",
+    "arquivo": "C4_2.wav",
+    "duracao_original": 2.714,
+    "cena_inicial": 2,
+    "cena_final": 2,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 9.1,
+    "fim": 11.9,
+    "texto": "Con un calendario para elegir a vuestro ritmo.",
+    "arquivo": "C4_3.wav",
+    "duracao_original": 2.75,
+    "cena_inicial": 3,
+    "cena_final": 3,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.09999999999999964
+  },
+  {
+    "inicio": 12.1,
+    "fim": 14.85,
+    "texto": "Descubre las trescientas veinte actividades en PDF.",
+    "arquivo": "C4_4.wav",
+    "duracao_original": 2.9193333333333333,
+    "cena_inicial": 4,
+    "cena_final": 4,
+    "offset_inicio": 0.09999999999999964,
+    "offset_fim": 0.15000000000000036
+  }
+]
